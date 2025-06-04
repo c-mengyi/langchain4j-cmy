@@ -14,7 +14,7 @@
 - cmy-java是后端项目
 - 用IDEA导入后端项目，等待依赖自动下载
 - 修改DASH_API_KEY（这个需要注册[阿里云](https://www.aliyun.com/)账号，点击大模型导航栏，再点击通义千问max，然后获取API_KEY，将API_KEY配置到系统环境变量中，环境变量名就叫DASH_SCOPE_API_KEY）
-- 运行Langchain4jApplication.java，浏览器输入http://127.0.0.1:8003/doc.html可在线调试
+- 运行Langchain4jApplication.java，浏览器输入[http://127.0.0.1:8003/doc.html](http://127.0.0.1:8003/doc.html)，可在线调试
 
 - cmy-ui是前端项目，cmy-ui放在一个无中文的路径下
 - 安装Node.js（node-v18.17.1-x64.msi）
